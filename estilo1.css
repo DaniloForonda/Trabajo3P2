@@ -1,0 +1,111 @@
+body{
+	background-color:#93BECD;
+	font-family:Arial;
+}
+#t1{
+	background-color:#F6A971;
+	width:230px;
+	height:35px;
+	font-size:30px;
+	margin-top:2%;
+}
+
+#c1{
+	background-color:#FBC299;
+	width:38.4%;
+	font-size:18px;
+	text-align:justify;
+	border-style:solid;
+	border-width:10px;
+	border-color:#FBC299;
+	margin-left:7.69%;
+	margin-top:1px;
+}
+#c2{
+	background-color:#FBC299;
+	width:38.4%;
+	font-size:18px;
+	text-align:justify;
+	border-style:solid;
+	border-width:10px;
+	border-color:#FBC299;
+	margin-left:53.8%;
+	margin-top:-144px;
+}
+
+#c3{
+	width:400px;
+	margin-top:4%;
+}
+#i1{
+	width:400px;
+}
+
+@media only screen and (max-width:1100px){
+	body{
+		background-color:#A5D4E4;
+	}
+	#t1{
+		background-color:#F69471;
+	}
+	#c1{
+		background-color:#FBB399;
+		width:37.5%;
+		font-size:18px;
+		text-align:justify;
+		border-style:solid;
+		border-width:10px;
+		border-color:#FBB399;
+		margin-left:8.3%;
+		margin-top:1px;
+	}
+	#c2{
+		background-color:#FBB399;
+		width:37.5%;
+		font-size:18px;
+		text-align:justify;
+		border-style:solid;
+		border-width:10px;
+		border-color:#FBB399;
+		margin-left:54.1%;
+		margin-top:-200px;
+	}
+	#i1{
+		width:350px;
+	}
+}
+
+@media only screen and (max-width:900px){
+	body{
+		background-color:#B4E4F5;
+	}
+	#t1{
+		background-color:#F68471;
+	}
+	#c1{
+		background-color:#FBA899;
+		width:60%;
+		font-size:18px;
+		text-align:justify;
+		border-style:solid;
+		border-width:10px;
+		border-color:#FBA899;
+		margin-left:20%;
+		margin-top:1px;
+	}
+	#c2{
+		background-color:#FBA899;
+		width:60%;
+		font-size:18px;
+		text-align:justify;
+		border-style:solid;
+		border-width:10px;
+		border-color:#FBA899;
+		margin-left:20%;
+		margin-top:11px;
+	}
+	#i1{
+		width:300px;
+		margin-top:0px;
+	}
+}
